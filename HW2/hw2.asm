@@ -1,14 +1,3 @@
-# Michael Szenczewski
-# mszenczewski
-# 111267857
-
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
-
 .text
 
 ### Part I ###
@@ -801,10 +790,3 @@ compute_check_digit:
 	addi $sp $sp 24
 	
 	jr $ra	
-
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
