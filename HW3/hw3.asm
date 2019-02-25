@@ -1,14 +1,3 @@
-# Michael Szenczewski
-# mszenczewski
-# 111267857
-
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
-
 .text
 
 # Part I
@@ -910,10 +899,3 @@ decrypt:
 	addi $sp $sp 36 #registers times 4
 	
 	jr $ra
-
-#####################################################################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-############### DO NOT CREATE A .data SECTION! ######################
-##### ANY LINES BEGINNING .data WILL BE DELETED DURING GRADING! #####
-#####################################################################
