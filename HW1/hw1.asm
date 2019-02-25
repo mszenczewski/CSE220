@@ -1,7 +1,3 @@
-# Michael Szenczewski
-# mszenczewski
-# 111267857
-
 .data
 # Command-line arguments
 num_args: .word 0
